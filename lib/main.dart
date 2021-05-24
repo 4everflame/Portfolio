@@ -43,12 +43,12 @@ class MainCard extends StatelessWidget {
                   height: 15,
                 ),
                 Text(
-                  'Walter White', 
+                  'Munkhdul',
                   style: TextStyle(fontSize: 30, fontWeight: FontWeight.w700),
                 ),
                 SizedBox(height: 10,),
                 Text(
-                  'Maharashtra, IN', 
+                  'Mongolia, UB',
                   style: TextStyle(fontWeight: FontWeight.w500),
                 ),
                 SizedBox(
